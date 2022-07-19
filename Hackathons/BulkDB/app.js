@@ -14,7 +14,7 @@ J.get('/', (req, res) => {
 
 // Create new user
 J.get('/adduser', (req, res) => {
-  if (req.query.token === 'joshdbtest') {
+  if (req.query.token === 'dbadmin') {
     if (req.query.user === "undefined") {
       res.end("You need to specify a username")
     } else if (req.query.pass === "undefined") {
