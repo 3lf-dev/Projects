@@ -1,0 +1,27 @@
+{
+  "name": "xpweb",
+  "version": "1.0.2",
+  "description": "A lightweight web server for testing TOR hidden services.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPICave/XPWeb.git"
+  },
+  "keywords": [
+    "Web-Server",
+    "TOR",
+    "hiddenService",
+    "development"
+  ],
+  "author": "RPICave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RPICave/XPWeb/issues"
+  },
+  "homepage": "https://github.com/RPICave/XPWeb#readme"
+}
