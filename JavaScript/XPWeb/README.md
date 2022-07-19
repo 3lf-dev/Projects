@@ -37,7 +37,7 @@ Index :
 
 1. Clone the repo.
 ```bash
-git clone https://github.com/RPICave/XPWeb.git
+git clone https://github.com/RPICave/Projects.git
 ```
 <br>
 
